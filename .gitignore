@@ -4,4 +4,5 @@ output
 terraform.tfstate
 terraform.tfstate.backup
 .dist
-.igitignore
+.gitignore
+.terraform.lock.hcl
