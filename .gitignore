@@ -1,0 +1,7 @@
+.terraform
+keys
+output
+terraform.tfstate
+terraform.tfstate.backup
+.dist
+.igitignore
